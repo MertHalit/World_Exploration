@@ -60,3 +60,7 @@ x"
 - Bulut Boyama	Parmak hareketleriyle şekil oluşturma
 - Telaffuz Oyunu	Basit kelimelerle dil öğrenimi (AR etkileşimli)
 
+###  EKRAN GÖRÜNTÜLERİ
+
+![WhatsApp Görsel 2025-06-22 saat 18 29 36_5260fc1f](https://github.com/user-attachments/assets/b42a8bbc-f7e0-455c-8d6e-cc492f44f4c9)
+
