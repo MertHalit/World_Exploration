@@ -63,4 +63,12 @@ x"
 ###  EKRAN GÖRÜNTÜLERİ
 
 ![WhatsApp Görsel 2025-06-22 saat 18 29 36_5260fc1f](https://github.com/user-attachments/assets/b42a8bbc-f7e0-455c-8d6e-cc492f44f4c9)
+![WhatsApp Görsel 2025-06-22 saat 18 37 24_aec05cb7](https://github.com/user-attachments/assets/33fb84b6-a6d0-49ca-8791-4302b365253f)
+![WhatsApp Görsel 2025-06-22 saat 18 37 24_c4290907](https://github.com/user-attachments/assets/6d34bc56-2492-4115-b74b-e70cb7429fcb)
+![WhatsApp Görsel 2025-06-22 saat 18 37 25_c8dc1fa0](https://github.com/user-attachments/assets/25e03f05-5a35-49fe-84b8-3d9ad305850b)
+![WhatsApp Görsel 2025-06-22 saat 18 37 25_cf8633db](https://github.com/user-attachments/assets/e965e73d-a159-47f2-ad4f-b5291632fc79)
+
+
+
+
 
