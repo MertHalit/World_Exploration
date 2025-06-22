@@ -27,12 +27,12 @@ x"
 
  Araç | Versiyon Önerisi |
 
- Unity Hub | 3.0+ |
- Unity Editor | 2022.3 LTS |
- Android Build Support | yüklü olmalı |
- Vuforia Engine veya AR Foundation | en güncel sürüm |
- Visual Studio | 2019 veya üstü |
- Git | 2.30+ |
+ - Unity Hub | 3.0+ |
+ - Unity Editor | 2022.3 LTS |
+ - Android Build Support | yüklü olmalı |
+ - Vuforia Engine veya AR Foundation | en güncel sürüm |
+ - Visual Studio | 2019 veya üstü |
+ - Git | 2.30+ |
 
 ### Adım Adım Kurulum
 
@@ -44,12 +44,12 @@ x"
 
 ### Kullanım Talimatları
 
--Oyuna girişte “Kaşif Akademisi” tanıtım ekranı çıkar.
--Avatar oluşturulur, keşif ekipmanları ve araçlar seçilir.
--3D dünya haritası üzerinden uçuş rotası belirlenir.
--Ülkeler gezildikçe görevler yapılır, mini oyunlar oynanır.
--Görevler tamamlandıkça Kaşif Pasaportu’na damgalar eklenir.
--Oyunun sonunda bir “Macera Özeti” sunulur ve başarılar gösterilir.
+- Oyuna girişte “Kaşif Akademisi” tanıtım ekranı çıkar.
+- Avatar oluşturulur, keşif ekipmanları ve araçlar seçilir.
+- 3D dünya haritası üzerinden uçuş rotası belirlenir.
+- Ülkeler gezildikçe görevler yapılır, mini oyunlar oynanır.
+- Görevler tamamlandıkça Kaşif Pasaportu’na damgalar eklenir.
+- Oyunun sonunda bir “Macera Özeti” sunulur ve başarılar gösterilir.
 
 
 ### AR Özellikleri
